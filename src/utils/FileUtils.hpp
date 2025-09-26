@@ -17,6 +17,4 @@ namespace Utils {
 
 	std::vector<std::string> listFiles(const std::string& dir);
 
-	std::map<std::string, std::string> collectFiles(const std::string& dir);
-
 }
